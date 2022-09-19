@@ -1,4 +1,0 @@
-Baza je postavljena online na heroku, ako nešto ne bude radila imate export baze da dodate u phpmyadmin. 
-Ne znam da li pokrećete migracije i sidere kad pregledate, ali ako budete morali da dodate bazu u phpmyadmin ja ne bih pokretao 
-jer drugačije idu auto increment vrednosti na heroku i phpmyadmin, nisam isprobavao pa ne znam kako bi se upisale i povezale stvari
-pa da ne bude nešto pogrešno spojeno i da ne radi.
